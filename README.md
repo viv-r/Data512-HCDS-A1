@@ -24,14 +24,14 @@ These 5 datasets are then combined into a single table with the following transf
  - For all data, separate the value of timestamp into four-digit year and two-digit month and discard values for day and hour.
  
 The final table has the following fields: (all numeric)
-'pagecount_desktop_views'
-'pagecount_mobile_views'
-'pageview_desktop_views'
-'pageview_mobile_views'
-'pageview_all_views'
-'pagecount_all_views'
-'year'
-'month'
+- 'pagecount_desktop_views'
+- 'pagecount_mobile_views'
+- 'pageview_desktop_views'
+- 'pageview_mobile_views'
+- 'pageview_all_views'
+- 'pagecount_all_views'
+- 'year'
+- 'month'
 
 
 ### Python and Library versions
