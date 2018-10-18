@@ -4,5 +4,4 @@ The goal of this project is to construct, analyze, and publish a dataset of mont
 
 ### Results
 
-Inline-style: 
-![Results](https://github.com/viv-r/Data512-HCDS-A1/raw/master/views_graph.jpg "Wikipedia traffic")
+![Wiki traffic](https://github.com/viv-r/Data512-HCDS-A1/raw/master/views_graph.jpg)
