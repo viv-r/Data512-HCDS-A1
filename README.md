@@ -5,7 +5,7 @@ The goal of this project is to construct, analyze, and publish a dataset of mont
 ### Data sources
 
 All of the raw data used in the code is from the __[Pagecounts](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts)__ 
-and - __[Pageviews](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews)__ APIs. The raw responses of these API calls are stored in the `data-raw` folder and the transformed data is located in the `data-cleaned` folder
+and __[Pageviews](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews)__ APIs. The raw responses of these API calls are stored in the `data-raw` folder and the transformed data is located in the `data-cleaned` folder
 
 ### Data transformations
 
@@ -22,11 +22,11 @@ These 5 datasets are then combined into a single table with the following transf
 
 ### Python and Library versions
 
-Python: 3.6.2
-requests: 2.18.4
-json: 2.6.0
-pandas: 0.22.0
-matplotlib: 2.0.2
+- Python: 3.6.2
+- requests: 2.18.4
+- json: 2.6.0
+- pandas: 0.22.0
+- matplotlib: 2.0.2
 
 ### Results
 
